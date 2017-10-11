@@ -1,6 +1,7 @@
 .MainWrapper {
 	width:100%;
 	text-align:center;
+	font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
 .Main {
 	width:100%;
